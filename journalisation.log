@@ -1,17 +1,12 @@
-2022-04-18 17:32:38,663 PyNaCl is not installed, voice will NOT be supported
-2022-04-18 17:32:38,663 logging in using static token
-2022-04-18 17:32:39,447 Shard ID None has sent the IDENTIFY payload.
-2022-04-18 17:32:39,655 Shard ID None has connected to Gateway: ["gateway-prd-main-wggp",{"micros":73420,"calls":["discord-sessions-blue-prd-2-37",{"micros":71210,"calls":["start_session",{"micros":55613,"calls":["discord-api-6bbf877669-skvvl",{"micros":51289,"calls":["get_user",{"micros":6366},"add_authorized_ip",{"micros":5792},"get_guilds",{"micros":8599},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 8e9a381b72cc2fa6b881c8953659743c).
-2022-04-18 17:32:41,670 Hey !! Je suis prête à vous envoyer du soleil ^^
-2022-04-18 17:32:49,087 On vient de me demander le lien du channel
-2022-04-18 17:32:52,982 Je veux faire une petite partie de ping pong !
-2022-04-18 17:32:57,968 On vient de me demander la liste des commandes
-2022-04-18 17:33:22,810 Je veux faire une petite partie de ping pong !
-2022-04-18 17:33:34,328 Je veux faire une petite partie de ping pong !
-2022-04-18 17:35:12,355 PyNaCl is not installed, voice will NOT be supported
-2022-04-18 17:35:12,355 logging in using static token
-2022-04-18 17:35:13,095 Shard ID None has sent the IDENTIFY payload.
-2022-04-18 17:35:13,287 Shard ID None has connected to Gateway: ["gateway-prd-main-sktr",{"micros":68894,"calls":["discord-sessions-blue-prd-2-153",{"micros":67171,"calls":["start_session",{"micros":51704,"calls":["discord-api-6bbf877669-2k62j",{"micros":46641,"calls":["get_user",{"micros":9535},"add_authorized_ip",{"micros":2464},"get_guilds",{"micros":3926},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: f5f76ce3ca8d85fbb7356423414da292).
-2022-04-18 17:35:15,320 Hey !! Je suis prête à vous envoyer du soleil ^^
-2022-04-18 17:35:28,206 Je veux faire une petite partie de ping pong !
-2022-04-18 17:35:31,374 On vient de me demander le lien du channel
+2022-04-18 17:34:25,954 PyNaCl is not installed, voice will NOT be supported
+2022-04-18 17:34:25,954 logging in using static token
+2022-04-18 17:34:25,955 Cleaning up tasks.
+2022-04-18 17:34:25,955 Closing the event loop.
+2022-04-18 17:34:56,379 PyNaCl is not installed, voice will NOT be supported
+2022-04-18 17:34:56,379 logging in using static token
+2022-04-18 17:34:56,379 Cleaning up tasks.
+2022-04-18 17:34:56,380 Closing the event loop.
+2022-04-18 17:36:48,939 PyNaCl is not installed, voice will NOT be supported
+2022-04-18 17:36:48,939 logging in using static token
+2022-04-18 17:36:48,940 Cleaning up tasks.
+2022-04-18 17:36:48,940 Closing the event loop.
