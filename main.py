@@ -33,4 +33,4 @@ class SuunyBot(Client):
             logging.info("On vient de me demander la liste des commandes")
 
 suuny_bot = SuunyBot()
-suuny_bot.run("OTY0NDIyMjE5OTU2NjE3Mjg3.YlkaLw.WAPoyTP_0jJpiTLrTPxbDAH66qk")
+suuny_bot.run("Mettre ici token du bot")
